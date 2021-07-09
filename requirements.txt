@@ -1,0 +1,5 @@
+pandas==1.1.5
+apache_flink==1.13.0
+pyalink==1.4.0
+ipython==7.16.1
+

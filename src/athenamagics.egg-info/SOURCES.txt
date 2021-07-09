@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/athenamagics/__init__.py
+src/athenamagics/alinkmagics.py
+src/athenamagics/flinkmagics.py
+src/athenamagics.egg-info/PKG-INFO
+src/athenamagics.egg-info/SOURCES.txt
+src/athenamagics.egg-info/dependency_links.txt
+src/athenamagics.egg-info/top_level.txt
